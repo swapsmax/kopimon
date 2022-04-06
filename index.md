@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Kopimon RPG's Github Website
 
-You can use the [editor on GitHub](https://github.com/swapsmax/kopimon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Kopimon is a pixelised, Singapore-themed, role-playing game with multiplayer capabilities. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What is the aim of this game? It's simple, we promise! You start with a starter kopimon, and explore the world around. As you walk around, you will be handed quests by non-player characters (NPCs) which will lead to rewards and other locations being unlocked. Fight other wild enemy kopimons, defeat them and emerge victorious as you level up. Are you willing to do what it takes to save the world of Kopimon from the pandemic?
 
 ### Markdown
 
