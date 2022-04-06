@@ -12,16 +12,16 @@
   <h3 align="center">Kopimon README</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Your everyday READEME file for the Kopimon project.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the files »</strong></a>
+    <a href="https://github.com/swapsmax/kopimon/tree/main/projectfiles"><strong>Explore the files »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo Video</a>
+    <a href="https://swapsmax.github.io/kopimon/">View Demo Video</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/swapsmax/kopimon">Report Bug (coming soon)</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/swapsmax/kopimon">Request Feature (coming soon)</a>
   </p>
 </div>
 
@@ -48,7 +48,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -143,7 +142,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+This project waas created by the following group of individuals - Swapnil, Charm, Yuyue, Fuguo, Ruokun, Sean, Shin Hui - for the 'Design & Innovation Project' module in Nanyang Technological University (NTU).
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/swapsmax/kopimon)
 
