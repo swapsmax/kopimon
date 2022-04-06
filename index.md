@@ -11,10 +11,12 @@ What is the aim of this game? It's simple, we promise! You start with a starter 
 
 ## Background and Motivation
 
+Pokemon is the app that the first version was based off of, a simple tile-based pixel game that has lasted many decades. We were curious to see if we could recreate a similar game with deceivingly simple-looking functions that are actually not easy to code and design. Despite the simplicity of the game, it is a game which has bridged across generations and been a significant part of many’s lives growing up. 
 
 
 ## Objectives
 
+Creating a game that is relevant and relatable to Singaporeans of all age groups regardless of their differences. Game has to be simple and easy to understand, and attractive to the eye for that purpose 
 
 
 ## Review of Literature/Technology
@@ -22,11 +24,12 @@ What is the aim of this game? It's simple, we promise! You start with a starter 
 
 
 ## Design & Implementation
-### Design considerations/choice of components
 
-### Final Design
+  ### Design considerations/choice of components
 
-### Discussion
+  ### Final Design
+
+  ### Discussion
 
 
 
