@@ -146,7 +146,7 @@ Don't forget to give the project a star! Thanks again!
 
 This project waas created by the following group of individuals - Swapnil, Charm, Yuyue, Fuguo, Ruokun, Sean, Shin Hui - for the 'Design & Innovation Project' module in Nanyang Technological University (NTU).
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/swapsmax/kopimon)
+Project Link: [https://github.com/swapsmax/kopimon](https://github.com/swapsmax/kopimon)
 
 Demo Website Link: [https://swapsmax.github.io/kopimon/](https://swapsmax.github.io/kopimon/)
 
