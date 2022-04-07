@@ -111,7 +111,7 @@ For Windows users, install the .exe file.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This game can be used in many ways and is built to be played either single-player or multi-player.
+This game can be played in many ways and is built to be played either single-player or multi-player.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
