@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/mc.PNG" alt="Logo" width="80" height="80">
+  <a href="https://github.com/swapsmax/kopimon">
+    <img src="images/kopimon_medium.png" alt="Logo">
   </a>
 
   <h3 align="center">Kopimon README</h3>
@@ -56,9 +56,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<br />
+<br />
+
 <div align="center">
-  <img src="images/esplanade_scene.jpg" alt="Esplanade Scene" >
+  <img src="images/esplanade_scene.png" alt="Esplanade Scene" >
 </div>
+
+<br />
+<br />
 
 Kopimon is a Singapore-themed role-playing game with pixelised art and multiplayer capailities. Inspired by the original Pokemon game commonly found on the Gameboy consoles, we wanted to create a game that is relevant and relatable to Singaporeans of all age groups regardless of their differences. A game that is easy to understand, and easy on the eye for that purpose. We also want to instil a sense of local pride or wonder at the unique elements that Singapore possesses.
 
