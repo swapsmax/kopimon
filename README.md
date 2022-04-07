@@ -6,10 +6,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/swapsmax/kopimon">
-    <img src="images/kopimon_medium.png" alt="Logo">
+    <img src="images/kopimon_readme.png" alt="Logo">
   </a>
 
-  <h3 align="center">Kopimon README</h3>
+  <h3 align="center"></h3>
 
   <p align="center">
     Your everyday READEME file for the Kopimon project.
@@ -25,6 +25,8 @@
   </p>
 </div>
 
+<br />
+<br />
 
 
 <!-- TABLE OF CONTENTS -->
@@ -51,6 +53,8 @@
   </ol>
 </details>
 
+<br />
+<br />
 
 
 <!-- ABOUT THE PROJECT -->
@@ -159,8 +163,6 @@ Demo Website Link: [https://swapsmax.github.io/kopimon/](https://swapsmax.github
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: images/screenshot.png
