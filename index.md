@@ -21,10 +21,8 @@ Creating a game that is relevant and relatable to Singaporeans of all age groups
 
 ## Review of Literature/Technology
 
-**3.1**
 “Pencils, Paints, or Pixels?: How Aesthetic Choices of Indie Games Affect Interactive Experience” by Gonzalo Alvarez (Lamar University) - talks about how indie games (i.e. pixel art and hand drawn stuff) survive in today’s world, despite the release of games with newer technologies such as photorealistic graphics and smooth animation. On pixel art specifically, the author mentioned that there is a sense of nostalgia when such an art style is used.
 
-**3.2**
 This study explores the psychological effects and benefits of past-related gaming, which considers storylines, graphics, and other aspects of games which might invoke nostalgia in the user. It was found that past memories more strongly associated with enjoyment and challenge, https://psycnet.apa.org/record/2018-48742-001 - study of the psychological effects and benefits of past-related gaming, it was found that past memories more strongly associated with enjoyment and challenge (basically makes people feel more strongly) and social memories are more likely to involve close others 
 
 This nostalgia, coupled with the pride of Singapore and its elements, can appeal to our target audience’s pathos. 
