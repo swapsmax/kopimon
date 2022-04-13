@@ -1,4 +1,4 @@
-## Welcome to Kopimon's Github Website
+## Welcome to Kopimon's Github Wiki
 
 Kopimon is a pixelised, Singapore-themed, role-playing game with multiplayer capabilities. 
 
