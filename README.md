@@ -101,8 +101,8 @@ To run it on Unity, make sure your installed version is 2020.3.26f1 for best res
 
 ### Installation
 
-For MacOS users, install the .app file.
-For Windows users, install the .exe file.
+For MacOS users, download and run the .app file.
+For Windows users, download and run the .exe file.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
