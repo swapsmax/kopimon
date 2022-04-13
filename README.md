@@ -17,7 +17,7 @@
     <a href="https://github.com/swapsmax/kopimon/tree/main/projectfiles"><strong>Explore the files »</strong></a>
     <br />
     <br />
-    <a href="https://swapsmax.github.io/kopimon/">View Demo Video</a>
+    <a href="https://swapsmax.github.io/kopimon/">View Game Website</a>
     ·
     <a href="https://github.com/swapsmax/kopimon">Report Bug (coming soon)</a>
     ·
