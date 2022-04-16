@@ -101,8 +101,8 @@ To run it on Unity, make sure your installed version is 2020.3.26f1 for best res
 
 ### Installation
 
-For MacOS users, download and run the .app file. <br />
-For Windows users, download and run the .exe file.
+For Windows users, download & extract "Kopimon (Windows).zip and run the .exe file.<br />
+For MacOS users, download & extract "Kopimon (Mac).zip and run the .app file. [COMING SOON]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
