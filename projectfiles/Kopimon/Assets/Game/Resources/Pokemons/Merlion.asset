@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba6a03cfadf064e1ebe32e634ca937fb, type: 3}
+  m_Name: Merlion
+  m_EditorClassIdentifier: 
+  name: Merlion
+  description: 
+  frontSprite: {fileID: -1508478973161224044, guid: f869a2ef0bfe3054a8033046106f01f5, type: 3}
+  backSprite: {fileID: 6968405691575843254, guid: 0367fd8dfb6e6d040a7b252bfe012c0d, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 39
+  attack: 52
+  defense: 43
+  spAttack: 60
+  spDefense: 50
+  speed: 65
+  expYield: 62
+  growthRate: 1
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e72f6f1c5e45a4d5e86390df2251e702, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 24ad4b71925514cff8c0e6ba9965aee6, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 1508992bee799432292412bd3ef3aaff, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 2e7f9033127606b4ebdb525e06aec39a, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: c9102425b28ca4bd093ead6a95755c8f, type: 2}
+    level: 8
+  learnableByItems:
+  - {fileID: 11400000, guid: f06d0f9e0cfc5473db26b8570daf487e, type: 2}
+  - {fileID: 11400000, guid: 297a120e10abc0f4ea5e2c8dd69160bb, type: 2}
+  - {fileID: 11400000, guid: 9c5969ef67c8d824e914d326416219a2, type: 2}

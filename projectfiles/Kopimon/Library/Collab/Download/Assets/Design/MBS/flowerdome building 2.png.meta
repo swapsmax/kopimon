@@ -1,0 +1,5634 @@
+fileFormatVersion: 2
+guid: 944a371c63600458c94a3b27d6a949a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2993276682195113348
+    second: flowerdome building 2_0
+  - first:
+      213: -6896509843511651741
+    second: flowerdome building 2_1
+  - first:
+      213: 5435442227386781413
+    second: flowerdome building 2_2
+  - first:
+      213: 3701106456729391874
+    second: flowerdome building 2_3
+  - first:
+      213: -3785822350515452717
+    second: flowerdome building 2_4
+  - first:
+      213: 524868017357167809
+    second: flowerdome building 2_5
+  - first:
+      213: -4166261461815057317
+    second: flowerdome building 2_6
+  - first:
+      213: -2713075449288726475
+    second: flowerdome building 2_7
+  - first:
+      213: 7827401161542908670
+    second: flowerdome building 2_8
+  - first:
+      213: 167780158439141478
+    second: flowerdome building 2_9
+  - first:
+      213: 6431589480372082525
+    second: flowerdome building 2_10
+  - first:
+      213: -4345454271012856719
+    second: flowerdome building 2_11
+  - first:
+      213: 4867764170027667079
+    second: flowerdome building 2_12
+  - first:
+      213: 8599837775638210124
+    second: flowerdome building 2_13
+  - first:
+      213: -4424793914925576642
+    second: flowerdome building 2_14
+  - first:
+      213: -3264727996782473495
+    second: flowerdome building 2_15
+  - first:
+      213: 3124823419329806455
+    second: flowerdome building 2_16
+  - first:
+      213: 6309682634101059222
+    second: flowerdome building 2_17
+  - first:
+      213: -4979133417050293254
+    second: flowerdome building 2_18
+  - first:
+      213: -5810771879318532990
+    second: flowerdome building 2_19
+  - first:
+      213: 9069728266686486870
+    second: flowerdome building 2_20
+  - first:
+      213: -1612841248819870015
+    second: flowerdome building 2_21
+  - first:
+      213: -5963678171251789351
+    second: flowerdome building 2_22
+  - first:
+      213: -3435357895010534864
+    second: flowerdome building 2_23
+  - first:
+      213: 2283874492143125815
+    second: flowerdome building 2_24
+  - first:
+      213: 7727730426687032027
+    second: flowerdome building 2_25
+  - first:
+      213: 7317602982863449916
+    second: flowerdome building 2_26
+  - first:
+      213: 6485745588526691600
+    second: flowerdome building 2_27
+  - first:
+      213: -350857217136375733
+    second: flowerdome building 2_28
+  - first:
+      213: 3357924136028313846
+    second: flowerdome building 2_29
+  - first:
+      213: 2177183094101519605
+    second: flowerdome building 2_30
+  - first:
+      213: -7948444784642250778
+    second: flowerdome building 2_31
+  - first:
+      213: 8413975769262680646
+    second: flowerdome building 2_32
+  - first:
+      213: 5542849214927029956
+    second: flowerdome building 2_33
+  - first:
+      213: 5620247964847149391
+    second: flowerdome building 2_34
+  - first:
+      213: 8320539309224646638
+    second: flowerdome building 2_35
+  - first:
+      213: -7128525592669814975
+    second: flowerdome building 2_36
+  - first:
+      213: -3134070083934448400
+    second: flowerdome building 2_37
+  - first:
+      213: 2748431620184308210
+    second: flowerdome building 2_38
+  - first:
+      213: 1571655277772267002
+    second: flowerdome building 2_39
+  - first:
+      213: 680982188483556211
+    second: flowerdome building 2_40
+  - first:
+      213: 3251710116713456447
+    second: flowerdome building 2_41
+  - first:
+      213: 1382014036058895005
+    second: flowerdome building 2_42
+  - first:
+      213: 3223322402085655727
+    second: flowerdome building 2_43
+  - first:
+      213: -266885652229900058
+    second: flowerdome building 2_44
+  - first:
+      213: -4661370089101538059
+    second: flowerdome building 2_45
+  - first:
+      213: -5718069105345941308
+    second: flowerdome building 2_46
+  - first:
+      213: -5235797395513366775
+    second: flowerdome building 2_47
+  - first:
+      213: 8184923525460559175
+    second: flowerdome building 2_48
+  - first:
+      213: -7659406509829128279
+    second: flowerdome building 2_49
+  - first:
+      213: -8257044909785314081
+    second: flowerdome building 2_50
+  - first:
+      213: -6287276537657905648
+    second: flowerdome building 2_51
+  - first:
+      213: 7101246944768514259
+    second: flowerdome building 2_52
+  - first:
+      213: -1377759955896048427
+    second: flowerdome building 2_53
+  - first:
+      213: -3175025749158357981
+    second: flowerdome building 2_54
+  - first:
+      213: 8883752806001283345
+    second: flowerdome building 2_55
+  - first:
+      213: 2415045498891666262
+    second: flowerdome building 2_56
+  - first:
+      213: 5931903387883873116
+    second: flowerdome building 2_57
+  - first:
+      213: 7403899801333250808
+    second: flowerdome building 2_58
+  - first:
+      213: 3663236999275118116
+    second: flowerdome building 2_59
+  - first:
+      213: 8793278364350504887
+    second: flowerdome building 2_60
+  - first:
+      213: -2897455582889135316
+    second: flowerdome building 2_61
+  - first:
+      213: -7670177760341802234
+    second: flowerdome building 2_62
+  - first:
+      213: 3855448233227170995
+    second: flowerdome building 2_63
+  - first:
+      213: -7347351295628416798
+    second: flowerdome building 2_64
+  - first:
+      213: -6853773471773279267
+    second: flowerdome building 2_65
+  - first:
+      213: -7728702128264933215
+    second: flowerdome building 2_66
+  - first:
+      213: -7543618085094688664
+    second: flowerdome building 2_67
+  - first:
+      213: 6083295239099143314
+    second: flowerdome building 2_68
+  - first:
+      213: -3612360144796952187
+    second: flowerdome building 2_69
+  - first:
+      213: -1580843901055454549
+    second: flowerdome building 2_70
+  - first:
+      213: -2145740846606216491
+    second: flowerdome building 2_71
+  - first:
+      213: 5018535363727982645
+    second: flowerdome building 2_72
+  - first:
+      213: 5385958000590011816
+    second: flowerdome building 2_73
+  - first:
+      213: 4807253973894907047
+    second: flowerdome building 2_74
+  - first:
+      213: 1712893157054288980
+    second: flowerdome building 2_75
+  - first:
+      213: -3809209381046112059
+    second: flowerdome building 2_76
+  - first:
+      213: 411120278483016398
+    second: flowerdome building 2_77
+  - first:
+      213: 1815476571422202447
+    second: flowerdome building 2_78
+  - first:
+      213: -6240457639664876178
+    second: flowerdome building 2_79
+  - first:
+      213: -3445905062438037240
+    second: flowerdome building 2_80
+  - first:
+      213: -2287466757376983259
+    second: flowerdome building 2_81
+  - first:
+      213: 4439136886912922307
+    second: flowerdome building 2_82
+  - first:
+      213: -5541679384903632765
+    second: flowerdome building 2_83
+  - first:
+      213: -8967785658389506877
+    second: flowerdome building 2_84
+  - first:
+      213: 678751809243488365
+    second: flowerdome building 2_85
+  - first:
+      213: 7642415844575267307
+    second: flowerdome building 2_86
+  - first:
+      213: -5092912420044844831
+    second: flowerdome building 2_87
+  - first:
+      213: -4730063291057442030
+    second: flowerdome building 2_88
+  - first:
+      213: 3941966489822343912
+    second: flowerdome building 2_89
+  - first:
+      213: -6894566394977465842
+    second: flowerdome building 2_90
+  - first:
+      213: -5094280676197369945
+    second: flowerdome building 2_91
+  - first:
+      213: 3635761636756241722
+    second: flowerdome building 2_92
+  - first:
+      213: -8271205714730708956
+    second: flowerdome building 2_93
+  - first:
+      213: 5584773361080455443
+    second: flowerdome building 2_94
+  - first:
+      213: 8774697828907348239
+    second: flowerdome building 2_95
+  - first:
+      213: 4058580338145562725
+    second: flowerdome building 2_96
+  - first:
+      213: -4996273404440849361
+    second: flowerdome building 2_97
+  - first:
+      213: -570357661450490094
+    second: flowerdome building 2_98
+  - first:
+      213: -5666012076203422782
+    second: flowerdome building 2_99
+  - first:
+      213: 5387028128340179668
+    second: flowerdome building 2_100
+  - first:
+      213: -4445183927980919965
+    second: flowerdome building 2_101
+  - first:
+      213: 4768944656131161325
+    second: flowerdome building 2_102
+  - first:
+      213: 3324148669145405021
+    second: flowerdome building 2_103
+  - first:
+      213: -889519867227598777
+    second: flowerdome building 2_104
+  - first:
+      213: 6576237576053957120
+    second: flowerdome building 2_105
+  - first:
+      213: 4434400486033642467
+    second: flowerdome building 2_106
+  - first:
+      213: -4921923797305699620
+    second: flowerdome building 2_107
+  - first:
+      213: 7086124770223067118
+    second: flowerdome building 2_108
+  - first:
+      213: 5966721913664521976
+    second: flowerdome building 2_109
+  - first:
+      213: -5529542656976013834
+    second: flowerdome building 2_110
+  - first:
+      213: 7295987409740286341
+    second: flowerdome building 2_111
+  - first:
+      213: -2794588723746822729
+    second: flowerdome building 2_112
+  - first:
+      213: 6764035875689039893
+    second: flowerdome building 2_113
+  - first:
+      213: 6458784906117471692
+    second: flowerdome building 2_114
+  - first:
+      213: 7509297869100662857
+    second: flowerdome building 2_115
+  - first:
+      213: 175371709779220264
+    second: flowerdome building 2_116
+  - first:
+      213: -187003199066992124
+    second: flowerdome building 2_117
+  - first:
+      213: 1239228705984531730
+    second: flowerdome building 2_118
+  - first:
+      213: -8621182821911330184
+    second: flowerdome building 2_119
+  - first:
+      213: -7919710234992110187
+    second: flowerdome building 2_120
+  - first:
+      213: 303613063433998816
+    second: flowerdome building 2_121
+  - first:
+      213: -390023957738120543
+    second: flowerdome building 2_122
+  - first:
+      213: -6667927454023909130
+    second: flowerdome building 2_123
+  - first:
+      213: -8109292433569994436
+    second: flowerdome building 2_124
+  - first:
+      213: -5023453502301613106
+    second: flowerdome building 2_125
+  - first:
+      213: 6906820454732780415
+    second: flowerdome building 2_126
+  - first:
+      213: -8947376618856523416
+    second: flowerdome building 2_127
+  - first:
+      213: 6846379388057875268
+    second: flowerdome building 2_128
+  - first:
+      213: -1392153910702132600
+    second: flowerdome building 2_129
+  - first:
+      213: 5185017152047247400
+    second: flowerdome building 2_130
+  - first:
+      213: 7478108225490212083
+    second: flowerdome building 2_131
+  - first:
+      213: 9193950221453333316
+    second: flowerdome building 2_132
+  - first:
+      213: 3563813049180997487
+    second: flowerdome building 2_133
+  - first:
+      213: 2160587758392882279
+    second: flowerdome building 2_134
+  - first:
+      213: -3379454191410185666
+    second: flowerdome building 2_135
+  - first:
+      213: -7459287455782906131
+    second: flowerdome building 2_136
+  - first:
+      213: 8385532289133386930
+    second: flowerdome building 2_137
+  - first:
+      213: -549843418905158273
+    second: flowerdome building 2_138
+  - first:
+      213: 75743509864357234
+    second: flowerdome building 2_139
+  - first:
+      213: 4868742543692347730
+    second: flowerdome building 2_140
+  - first:
+      213: -1089628210536308699
+    second: flowerdome building 2_141
+  - first:
+      213: 6422651841843995890
+    second: flowerdome building 2_142
+  - first:
+      213: -2556079422518747901
+    second: flowerdome building 2_143
+  - first:
+      213: -8389887830036548004
+    second: flowerdome building 2_144
+  - first:
+      213: -1111364303468851390
+    second: flowerdome building 2_145
+  - first:
+      213: -7967372437622391136
+    second: flowerdome building 2_146
+  - first:
+      213: 75291585825891449
+    second: flowerdome building 2_147
+  - first:
+      213: -8295080290751976318
+    second: flowerdome building 2_148
+  - first:
+      213: 1773742660884407959
+    second: flowerdome building 2_149
+  - first:
+      213: -8645322979124735977
+    second: flowerdome building 2_150
+  - first:
+      213: 4970626006365998736
+    second: flowerdome building 2_151
+  - first:
+      213: -8575736195622579539
+    second: flowerdome building 2_152
+  - first:
+      213: -6418559849338407174
+    second: flowerdome building 2_153
+  - first:
+      213: 7935199782330047219
+    second: flowerdome building 2_154
+  - first:
+      213: 4949325541482788795
+    second: flowerdome building 2_155
+  - first:
+      213: -8782711955874887402
+    second: flowerdome building 2_156
+  - first:
+      213: 8638160447873928229
+    second: flowerdome building 2_157
+  - first:
+      213: -311734150472403563
+    second: flowerdome building 2_158
+  - first:
+      213: 6020291404511486642
+    second: flowerdome building 2_159
+  - first:
+      213: -9154886780321184214
+    second: flowerdome building 2_160
+  - first:
+      213: 4381631385748545046
+    second: flowerdome building 2_161
+  - first:
+      213: 765094909613951548
+    second: flowerdome building 2_162
+  - first:
+      213: -4217810179356076449
+    second: flowerdome building 2_163
+  - first:
+      213: -5921848744144021142
+    second: flowerdome building 2_164
+  - first:
+      213: -160029020392008778
+    second: flowerdome building 2_165
+  - first:
+      213: 820477371178195367
+    second: flowerdome building 2_166
+  - first:
+      213: 2621928801294012597
+    second: flowerdome building 2_167
+  - first:
+      213: -4730438598298277145
+    second: flowerdome building 2_168
+  - first:
+      213: 8900956150777823126
+    second: flowerdome building 2_169
+  - first:
+      213: 8205686578655487753
+    second: flowerdome building 2_170
+  - first:
+      213: -7082392963451454282
+    second: flowerdome building 2_171
+  - first:
+      213: 4187891772414264453
+    second: flowerdome building 2_172
+  - first:
+      213: -5946087355184092470
+    second: flowerdome building 2_173
+  - first:
+      213: 935556749187424488
+    second: flowerdome building 2_174
+  - first:
+      213: -3435831672132270662
+    second: flowerdome building 2_175
+  - first:
+      213: -1959368868669513138
+    second: flowerdome building 2_176
+  - first:
+      213: -5914644048732568646
+    second: flowerdome building 2_177
+  - first:
+      213: -7854080078211480005
+    second: flowerdome building 2_178
+  - first:
+      213: -6505086165367648465
+    second: flowerdome building 2_179
+  - first:
+      213: 7044980779802446741
+    second: flowerdome building 2_180
+  - first:
+      213: 6118279146551838228
+    second: flowerdome building 2_181
+  - first:
+      213: -7614685677376874511
+    second: flowerdome building 2_182
+  - first:
+      213: -4529474556723726942
+    second: flowerdome building 2_183
+  - first:
+      213: 3488736463678527310
+    second: flowerdome building 2_184
+  - first:
+      213: 1644527781564683259
+    second: flowerdome building 2_185
+  - first:
+      213: 8553943399638533325
+    second: flowerdome building 2_186
+  - first:
+      213: 5686326967353945658
+    second: flowerdome building 2_187
+  - first:
+      213: -4485650807876783968
+    second: flowerdome building 2_188
+  - first:
+      213: 7811141733523157516
+    second: flowerdome building 2_189
+  - first:
+      213: -7605759719987434655
+    second: flowerdome building 2_190
+  - first:
+      213: 4345560935612516141
+    second: flowerdome building 2_191
+  - first:
+      213: 4056639533223724275
+    second: flowerdome building 2_192
+  - first:
+      213: 362861240769277611
+    second: flowerdome building 2_193
+  - first:
+      213: 5455862471297193004
+    second: flowerdome building 2_194
+  - first:
+      213: 65457400562201648
+    second: flowerdome building 2_195
+  - first:
+      213: -6285711956137962135
+    second: flowerdome building 2_196
+  - first:
+      213: -758430277412950156
+    second: flowerdome building 2_197
+  - first:
+      213: 2649336498082595600
+    second: flowerdome building 2_198
+  - first:
+      213: 8292275868344473214
+    second: flowerdome building 2_199
+  - first:
+      213: 296237350801154390
+    second: flowerdome building 2_200
+  - first:
+      213: 7758079291719278731
+    second: flowerdome building 2_201
+  - first:
+      213: 4366985428557125370
+    second: flowerdome building 2_202
+  - first:
+      213: 7597372617712696201
+    second: flowerdome building 2_203
+  - first:
+      213: 5702229591522054593
+    second: flowerdome building 2_204
+  - first:
+      213: 6855953994553654585
+    second: flowerdome building 2_205
+  - first:
+      213: 8431745218593397445
+    second: flowerdome building 2_206
+  - first:
+      213: 1302873490630720491
+    second: flowerdome building 2_207
+  - first:
+      213: -57543305104277857
+    second: flowerdome building 2_208
+  - first:
+      213: 6333414322833768606
+    second: flowerdome building 2_209
+  - first:
+      213: 1649312294026653427
+    second: flowerdome building 2_210
+  - first:
+      213: -5789537308400495920
+    second: flowerdome building 2_211
+  - first:
+      213: 2339686225165304163
+    second: flowerdome building 2_212
+  - first:
+      213: 3772302008805060645
+    second: flowerdome building 2_213
+  - first:
+      213: 2852458035074192489
+    second: flowerdome building 2_214
+  - first:
+      213: 587082729678192218
+    second: flowerdome building 2_215
+  - first:
+      213: -4448691635654379215
+    second: flowerdome building 2_216
+  - first:
+      213: -7741585269394752341
+    second: flowerdome building 2_217
+  - first:
+      213: 2736940237210045289
+    second: flowerdome building 2_218
+  - first:
+      213: -3185641348181652917
+    second: flowerdome building 2_219
+  - first:
+      213: -3398385558728727891
+    second: flowerdome building 2_220
+  - first:
+      213: -8237541748536979054
+    second: flowerdome building 2_221
+  - first:
+      213: 4487212136379659330
+    second: flowerdome building 2_222
+  - first:
+      213: 8490785888736594455
+    second: flowerdome building 2_223
+  - first:
+      213: 1923067311253893398
+    second: flowerdome building 2_224
+  - first:
+      213: -6407670740055017220
+    second: flowerdome building 2_225
+  - first:
+      213: 7622087488488553894
+    second: flowerdome building 2_226
+  - first:
+      213: 5132332749426357720
+    second: flowerdome building 2_227
+  - first:
+      213: 1876877640347402106
+    second: flowerdome building 2_228
+  - first:
+      213: -8722936075604507187
+    second: flowerdome building 2_229
+  - first:
+      213: 519031533494159838
+    second: flowerdome building 2_230
+  - first:
+      213: 1742086106405848714
+    second: flowerdome building 2_231
+  - first:
+      213: 7201512627360497442
+    second: flowerdome building 2_232
+  - first:
+      213: 3282020799212517873
+    second: flowerdome building 2_233
+  - first:
+      213: 1381598574018996303
+    second: flowerdome building 2_234
+  - first:
+      213: 1842062156326232905
+    second: flowerdome building 2_235
+  - first:
+      213: 3419871352246967571
+    second: flowerdome building 2_236
+  - first:
+      213: -2575837488543727689
+    second: flowerdome building 2_237
+  - first:
+      213: 4850729180138214618
+    second: flowerdome building 2_238
+  - first:
+      213: -6874148412307908098
+    second: flowerdome building 2_239
+  - first:
+      213: 8825847760878909562
+    second: flowerdome building 2_240
+  - first:
+      213: -8634866845990707864
+    second: flowerdome building 2_241
+  - first:
+      213: -220573408880641522
+    second: flowerdome building 2_242
+  - first:
+      213: -2795856358395279141
+    second: flowerdome building 2_243
+  - first:
+      213: -2207284218747169698
+    second: flowerdome building 2_244
+  - first:
+      213: -2359285583908731593
+    second: flowerdome building 2_245
+  - first:
+      213: 3751413304077656449
+    second: flowerdome building 2_246
+  - first:
+      213: -7681065731849849540
+    second: flowerdome building 2_247
+  - first:
+      213: 1494918708951911382
+    second: flowerdome building 2_248
+  - first:
+      213: 3857583976109582177
+    second: flowerdome building 2_249
+  - first:
+      213: -8543422097162737137
+    second: flowerdome building 2_250
+  - first:
+      213: 2165285833225157028
+    second: flowerdome building 2_251
+  - first:
+      213: -1088395339489042998
+    second: flowerdome building 2_252
+  - first:
+      213: -6439466599650149140
+    second: flowerdome building 2_253
+  - first:
+      213: 2933588234838676198
+    second: flowerdome building 2_254
+  - first:
+      213: 7533190495041935205
+    second: flowerdome building 2_255
+  - first:
+      213: -4845384149969632949
+    second: flowerdome building 2_256
+  - first:
+      213: 2329302372271075944
+    second: flowerdome building 2_257
+  - first:
+      213: 8311849240853592813
+    second: flowerdome building 2_258
+  - first:
+      213: 2232594622620785024
+    second: flowerdome building 2_259
+  - first:
+      213: 5652193774573371053
+    second: flowerdome building 2_260
+  - first:
+      213: 7668515239105144028
+    second: flowerdome building 2_261
+  - first:
+      213: -1975306886786220632
+    second: flowerdome building 2_262
+  - first:
+      213: -4722434416982995819
+    second: flowerdome building 2_263
+  - first:
+      213: 7750542641997775376
+    second: flowerdome building 2_264
+  - first:
+      213: 8923557087965812339
+    second: flowerdome building 2_265
+  - first:
+      213: -7763602929177058299
+    second: flowerdome building 2_266
+  - first:
+      213: 5202393370807457062
+    second: flowerdome building 2_267
+  - first:
+      213: -3056912015541624594
+    second: flowerdome building 2_268
+  - first:
+      213: -9171192350285352786
+    second: flowerdome building 2_269
+  - first:
+      213: -5634891014955995664
+    second: flowerdome building 2_270
+  - first:
+      213: 4838807882343095894
+    second: flowerdome building 2_271
+  - first:
+      213: 533772110135519173
+    second: flowerdome building 2_272
+  - first:
+      213: 1003559942489974851
+    second: flowerdome building 2_273
+  - first:
+      213: 6517242346404252648
+    second: flowerdome building 2_274
+  - first:
+      213: 5551742255036436194
+    second: flowerdome building 2_275
+  - first:
+      213: 5626142619996789604
+    second: flowerdome building 2_276
+  - first:
+      213: 5293643204989591381
+    second: flowerdome building 2_277
+  - first:
+      213: 5463200627601239177
+    second: flowerdome building 2_278
+  - first:
+      213: 1276924057877086383
+    second: flowerdome building 2_279
+  - first:
+      213: -4612183005754625314
+    second: flowerdome building 2_280
+  - first:
+      213: -199000098020563313
+    second: flowerdome building 2_281
+  - first:
+      213: 5809123802243136373
+    second: flowerdome building 2_282
+  - first:
+      213: 1011687536592300400
+    second: flowerdome building 2_283
+  - first:
+      213: 7263226032527891096
+    second: flowerdome building 2_284
+  - first:
+      213: 542874154394796562
+    second: flowerdome building 2_285
+  - first:
+      213: 5477101038689540683
+    second: flowerdome building 2_286
+  - first:
+      213: -3703366499417022556
+    second: flowerdome building 2_287
+  - first:
+      213: -2032875719383549195
+    second: flowerdome building 2_288
+  - first:
+      213: -6596581182473015352
+    second: flowerdome building 2_289
+  - first:
+      213: -4864186172055070770
+    second: flowerdome building 2_290
+  - first:
+      213: 1490460849012272938
+    second: flowerdome building 2_291
+  - first:
+      213: 182213766646664673
+    second: flowerdome building 2_292
+  - first:
+      213: -6898585056738759734
+    second: flowerdome building 2_293
+  - first:
+      213: 6156281525241273313
+    second: flowerdome building 2_294
+  - first:
+      213: -2963606085056760776
+    second: flowerdome building 2_295
+  - first:
+      213: 1519055224950911929
+    second: flowerdome building 2_296
+  - first:
+      213: -8727103958628382106
+    second: flowerdome building 2_297
+  - first:
+      213: -9194074493881899974
+    second: flowerdome building 2_298
+  - first:
+      213: -842983722372197566
+    second: flowerdome building 2_299
+  - first:
+      213: 2480307036279332762
+    second: flowerdome building 2_300
+  - first:
+      213: 5045924980333999122
+    second: flowerdome building 2_301
+  - first:
+      213: -513492304843188720
+    second: flowerdome building 2_302
+  - first:
+      213: -8321512143303656086
+    second: flowerdome building 2_303
+  - first:
+      213: -5300038189661944293
+    second: flowerdome building 2_304
+  - first:
+      213: 4537872183976160274
+    second: flowerdome building 2_305
+  - first:
+      213: 199383501961184100
+    second: flowerdome building 2_306
+  - first:
+      213: -342069942391665789
+    second: flowerdome building 2_307
+  - first:
+      213: 7609537248163989877
+    second: flowerdome building 2_308
+  - first:
+      213: -4909912570299619529
+    second: flowerdome building 2_309
+  - first:
+      213: 8461139575451091206
+    second: flowerdome building 2_310
+  - first:
+      213: 7309871037140523723
+    second: flowerdome building 2_311
+  - first:
+      213: 7676749372296553100
+    second: flowerdome building 2_312
+  - first:
+      213: -8133751144066718622
+    second: flowerdome building 2_313
+  - first:
+      213: 3645847844126743265
+    second: flowerdome building 2_314
+  - first:
+      213: -7211214165640571848
+    second: flowerdome building 2_315
+  - first:
+      213: -6377033648301203337
+    second: flowerdome building 2_316
+  - first:
+      213: -2037698197525669571
+    second: flowerdome building 2_317
+  - first:
+      213: -7996230193677569467
+    second: flowerdome building 2_318
+  - first:
+      213: 4926390806311727918
+    second: flowerdome building 2_319
+  - first:
+      213: 8092195163342225808
+    second: flowerdome building 2_320
+  - first:
+      213: -2258855286695767876
+    second: flowerdome building 2_321
+  - first:
+      213: -5431883417014412733
+    second: flowerdome building 2_322
+  - first:
+      213: 8140926890963496883
+    second: flowerdome building 2_323
+  - first:
+      213: 172044531897413575
+    second: flowerdome building 2_324
+  - first:
+      213: 6553015409421135795
+    second: flowerdome building 2_325
+  - first:
+      213: 6605015538273349751
+    second: flowerdome building 2_326
+  - first:
+      213: 6128344221494606991
+    second: flowerdome building 2_327
+  - first:
+      213: 5286151495322057341
+    second: flowerdome building 2_328
+  - first:
+      213: 2011988665383302450
+    second: flowerdome building 2_329
+  - first:
+      213: -617052513648243873
+    second: flowerdome building 2_330
+  - first:
+      213: 2982679297978221736
+    second: flowerdome building 2_331
+  - first:
+      213: 6123886196491007007
+    second: flowerdome building 2_332
+  - first:
+      213: -4585379499149237119
+    second: flowerdome building 2_333
+  - first:
+      213: 8659935047640265895
+    second: flowerdome building 2_334
+  - first:
+      213: -6280975618534538994
+    second: flowerdome building 2_335
+  - first:
+      213: 8381028689455135465
+    second: flowerdome building 2_336
+  - first:
+      213: 8776723961622808702
+    second: flowerdome building 2_337
+  - first:
+      213: -6802747268124782102
+    second: flowerdome building 2_338
+  - first:
+      213: 7567482070824101142
+    second: flowerdome building 2_339
+  - first:
+      213: 4968281373910456732
+    second: flowerdome building 2_340
+  - first:
+      213: -7184427580189560717
+    second: flowerdome building 2_341
+  - first:
+      213: 6234699178270680217
+    second: flowerdome building 2_342
+  - first:
+      213: 5526151297843583833
+    second: flowerdome building 2_343
+  - first:
+      213: -5187099187909117450
+    second: flowerdome building 2_344
+  - first:
+      213: 3902382638808584578
+    second: flowerdome building 2_345
+  - first:
+      213: -5755975825650413201
+    second: flowerdome building 2_346
+  - first:
+      213: -5057463562781653367
+    second: flowerdome building 2_347
+  - first:
+      213: 8848321416890423960
+    second: flowerdome building 2_348
+  - first:
+      213: 5946323565988484450
+    second: flowerdome building 2_349
+  - first:
+      213: 3944990490477975865
+    second: flowerdome building 2_350
+  - first:
+      213: 2316979649108611657
+    second: flowerdome building 2_351
+  - first:
+      213: -208225398201040144
+    second: flowerdome building 2_352
+  - first:
+      213: -761541292775213571
+    second: flowerdome building 2_353
+  - first:
+      213: -8425243721295786983
+    second: flowerdome building 2_354
+  - first:
+      213: 3193439258724542817
+    second: flowerdome building 2_355
+  - first:
+      213: -4636956884808468391
+    second: flowerdome building 2_356
+  - first:
+      213: 7722754007544637055
+    second: flowerdome building 2_357
+  - first:
+      213: 3332417761531263024
+    second: flowerdome building 2_358
+  - first:
+      213: 7888310062171762067
+    second: flowerdome building 2_359
+  - first:
+      213: -1430113499312866169
+    second: flowerdome building 2_360
+  - first:
+      213: -5758782145403506740
+    second: flowerdome building 2_361
+  - first:
+      213: 5392796782711180836
+    second: flowerdome building 2_362
+  - first:
+      213: -3667642132247102214
+    second: flowerdome building 2_363
+  - first:
+      213: -6626292185053533055
+    second: flowerdome building 2_364
+  - first:
+      213: 2152405191073270621
+    second: flowerdome building 2_365
+  - first:
+      213: 1138932110658951583
+    second: flowerdome building 2_366
+  - first:
+      213: -4775032473891518173
+    second: flowerdome building 2_367
+  - first:
+      213: -7577881718844768620
+    second: flowerdome building 2_368
+  - first:
+      213: -2864442395267717711
+    second: flowerdome building 2_369
+  - first:
+      213: 5038195932097317503
+    second: flowerdome building 2_370
+  - first:
+      213: 3074214377140334757
+    second: flowerdome building 2_371
+  - first:
+      213: 191577044138493193
+    second: flowerdome building 2_372
+  - first:
+      213: 4410532612137147561
+    second: flowerdome building 2_373
+  - first:
+      213: 2811729160745873400
+    second: flowerdome building 2_374
+  - first:
+      213: 8770275112251103306
+    second: flowerdome building 2_375
+  - first:
+      213: 6841129009952310601
+    second: flowerdome building 2_376
+  - first:
+      213: 8325360863377574527
+    second: flowerdome building 2_377
+  - first:
+      213: -1941482307376362802
+    second: flowerdome building 2_378
+  - first:
+      213: -2721577484771107180
+    second: flowerdome building 2_379
+  - first:
+      213: 8446433354958406865
+    second: flowerdome building 2_380
+  - first:
+      213: -8705842362382561288
+    second: flowerdome building 2_381
+  - first:
+      213: -7309642696325608422
+    second: flowerdome building 2_382
+  - first:
+      213: 7127152555579105544
+    second: flowerdome building 2_383
+  - first:
+      213: 6525696580546936767
+    second: flowerdome building 2_384
+  - first:
+      213: -3493289142974626019
+    second: flowerdome building 2_385
+  - first:
+      213: 3054572547530030765
+    second: flowerdome building 2_386
+  - first:
+      213: 4502777174515704174
+    second: flowerdome building 2_387
+  - first:
+      213: 7307135161303272154
+    second: flowerdome building 2_388
+  - first:
+      213: 6786794900528467054
+    second: flowerdome building 2_389
+  - first:
+      213: 6056633629852644011
+    second: flowerdome building 2_390
+  - first:
+      213: 8818689279274940699
+    second: flowerdome building 2_391
+  - first:
+      213: -6431592107348637402
+    second: flowerdome building 2_392
+  - first:
+      213: -891542035808599504
+    second: flowerdome building 2_393
+  - first:
+      213: 5837205425537715739
+    second: flowerdome building 2_394
+  - first:
+      213: 2367879169678475591
+    second: flowerdome building 2_395
+  - first:
+      213: -8564980719453766058
+    second: flowerdome building 2_396
+  - first:
+      213: -3121570002980944327
+    second: flowerdome building 2_397
+  - first:
+      213: -3592680632325705728
+    second: flowerdome building 2_398
+  - first:
+      213: -8542669310169351274
+    second: flowerdome building 2_399
+  - first:
+      213: -5210881470097991458
+    second: flowerdome building 2_400
+  - first:
+      213: -9031879019060052079
+    second: flowerdome building 2_401
+  - first:
+      213: -904520694578280829
+    second: flowerdome building 2_402
+  - first:
+      213: 4956774726622628878
+    second: flowerdome building 2_403
+  - first:
+      213: -701806961029721035
+    second: flowerdome building 2_404
+  - first:
+      213: -9100122255017795838
+    second: flowerdome building 2_405
+  - first:
+      213: -5168854302446974778
+    second: flowerdome building 2_406
+  - first:
+      213: 330276774650965892
+    second: flowerdome building 2_407
+  - first:
+      213: 4399529798476994668
+    second: flowerdome building 2_408
+  - first:
+      213: 5826581592606577774
+    second: flowerdome building 2_409
+  - first:
+      213: 6416877800952313490
+    second: flowerdome building 2_410
+  - first:
+      213: -3038885501337573796
+    second: flowerdome building 2_411
+  - first:
+      213: 7490010114060297451
+    second: flowerdome building 2_412
+  - first:
+      213: 362664044971692591
+    second: flowerdome building 2_413
+  - first:
+      213: 8221615473574296399
+    second: flowerdome building 2_414
+  - first:
+      213: -996451361801152274
+    second: flowerdome building 2_415
+  - first:
+      213: 7176393762973180972
+    second: flowerdome building 2_416
+  - first:
+      213: -5938042268621539142
+    second: flowerdome building 2_417
+  - first:
+      213: -4555497657455647299
+    second: flowerdome building 2_418
+  - first:
+      213: -5369475151597783552
+    second: flowerdome building 2_419
+  - first:
+      213: -8136276755445423321
+    second: flowerdome building 2_420
+  - first:
+      213: -8598175300033992972
+    second: flowerdome building 2_421
+  - first:
+      213: 9125313640983510912
+    second: flowerdome building 2_422
+  - first:
+      213: 6642501639397004873
+    second: flowerdome building 2_423
+  - first:
+      213: -1871631587106796150
+    second: flowerdome building 2_424
+  - first:
+      213: -3421805656463749377
+    second: flowerdome building 2_425
+  - first:
+      213: 8908558481701103116
+    second: flowerdome building 2_426
+  - first:
+      213: 932916219300150013
+    second: flowerdome building 2_427
+  - first:
+      213: 674292764292427148
+    second: flowerdome building 2_428
+  - first:
+      213: 3012586543143267839
+    second: flowerdome building 2_429
+  - first:
+      213: -4486439895328019895
+    second: flowerdome building 2_430
+  - first:
+      213: 374041141585070840
+    second: flowerdome building 2_431
+  - first:
+      213: 8481999468263141453
+    second: flowerdome building 2_432
+  - first:
+      213: -209250477715579867
+    second: flowerdome building 2_433
+  - first:
+      213: -4967763022956266124
+    second: flowerdome building 2_434
+  - first:
+      213: 2238163899571907250
+    second: flowerdome building 2_435
+  - first:
+      213: 2220158673266901180
+    second: flowerdome building 2_436
+  - first:
+      213: 8198555417997951304
+    second: flowerdome building 2_437
+  - first:
+      213: 3027230233414152924
+    second: flowerdome building 2_438
+  - first:
+      213: 7370993605996739197
+    second: flowerdome building 2_439
+  - first:
+      213: -6838155459245474764
+    second: flowerdome building 2_440
+  - first:
+      213: -5465148373387518706
+    second: flowerdome building 2_441
+  - first:
+      213: 2393162661644232512
+    second: flowerdome building 2_442
+  - first:
+      213: -6088343693458296390
+    second: flowerdome building 2_443
+  - first:
+      213: 8583779633853754786
+    second: flowerdome building 2_444
+  - first:
+      213: -1615900983921744055
+    second: flowerdome building 2_445
+  - first:
+      213: -1616984949638915940
+    second: flowerdome building 2_446
+  - first:
+      213: 9132148324926713256
+    second: flowerdome building 2_447
+  - first:
+      213: 7814122198774944514
+    second: flowerdome building 2_448
+  - first:
+      213: 7512995309967786081
+    second: flowerdome building 2_449
+  - first:
+      213: 6365062718338755444
+    second: flowerdome building 2_450
+  - first:
+      213: 6104798441697482975
+    second: flowerdome building 2_451
+  - first:
+      213: 2726696044119986997
+    second: flowerdome building 2_452
+  - first:
+      213: 7870924322581195969
+    second: flowerdome building 2_453
+  - first:
+      213: -370399808319028064
+    second: flowerdome building 2_454
+  - first:
+      213: -7878234787311622192
+    second: flowerdome building 2_455
+  - first:
+      213: 3317147708864842448
+    second: flowerdome building 2_456
+  - first:
+      213: -8858961826830341341
+    second: flowerdome building 2_457
+  - first:
+      213: 6930969479540765377
+    second: flowerdome building 2_458
+  - first:
+      213: -7783785743180335423
+    second: flowerdome building 2_459
+  - first:
+      213: 797216175598591422
+    second: flowerdome building 2_460
+  - first:
+      213: -5725279429167912880
+    second: flowerdome building 2_461
+  - first:
+      213: -5198041314689396465
+    second: flowerdome building 2_462
+  - first:
+      213: 9071073975405106622
+    second: flowerdome building 2_463
+  - first:
+      213: -4503541806406366736
+    second: flowerdome building 2_464
+  - first:
+      213: -2179169127084978505
+    second: flowerdome building 2_465
+  - first:
+      213: -8439407570393986865
+    second: flowerdome building 2_466
+  - first:
+      213: 8937232389584913792
+    second: flowerdome building 2_467
+  - first:
+      213: 3230254700613410560
+    second: flowerdome building 2_468
+  - first:
+      213: -2532686983537050104
+    second: flowerdome building 2_469
+  - first:
+      213: 1722744027839811724
+    second: flowerdome building 2_470
+  - first:
+      213: 1533855292607093029
+    second: flowerdome building 2_471
+  - first:
+      213: -5474529956192583215
+    second: flowerdome building 2_472
+  - first:
+      213: -3786110789739242392
+    second: flowerdome building 2_473
+  - first:
+      213: -8225125684240770075
+    second: flowerdome building 2_474
+  - first:
+      213: -3563264460080209329
+    second: flowerdome building 2_475
+  - first:
+      213: -7720827515112229777
+    second: flowerdome building 2_476
+  - first:
+      213: -1167313004784673276
+    second: flowerdome building 2_477
+  - first:
+      213: -1185793457919785314
+    second: flowerdome building 2_478
+  - first:
+      213: 6596504589998143929
+    second: flowerdome building 2_479
+  - first:
+      213: -3296807152934443562
+    second: flowerdome building 2_480
+  - first:
+      213: -6735898286961680688
+    second: flowerdome building 2_481
+  - first:
+      213: 2746779523857039570
+    second: flowerdome building 2_482
+  - first:
+      213: 8364408718671856399
+    second: flowerdome building 2_483
+  - first:
+      213: 4223886944244639858
+    second: flowerdome building 2_484
+  - first:
+      213: -5390028191165566270
+    second: flowerdome building 2_485
+  - first:
+      213: -7628335705312284131
+    second: flowerdome building 2_486
+  - first:
+      213: -8728980121857118651
+    second: flowerdome building 2_487
+  - first:
+      213: -7067013750456006007
+    second: flowerdome building 2_488
+  - first:
+      213: -8591982606683517619
+    second: flowerdome building 2_489
+  - first:
+      213: -5691981088124406244
+    second: flowerdome building 2_490
+  - first:
+      213: 1352883333752844306
+    second: flowerdome building 2_491
+  - first:
+      213: 2116579519814684651
+    second: flowerdome building 2_492
+  - first:
+      213: -4886905938507476233
+    second: flowerdome building 2_493
+  - first:
+      213: -6054818448561220715
+    second: flowerdome building 2_494
+  - first:
+      213: -902662532383426718
+    second: flowerdome building 2_495
+  - first:
+      213: -928493421700775783
+    second: flowerdome building 2_496
+  - first:
+      213: -7390759904158824779
+    second: flowerdome building 2_497
+  - first:
+      213: -1762702250841854836
+    second: flowerdome building 2_498
+  - first:
+      213: -4447779853059950886
+    second: flowerdome building 2_499
+  - first:
+      213: 3249660042231609045
+    second: flowerdome building 2_500
+  - first:
+      213: -4395730765663507846
+    second: flowerdome building 2_501
+  - first:
+      213: 4847846594037317730
+    second: flowerdome building 2_502
+  - first:
+      213: -6010681602865234507
+    second: flowerdome building 2_503
+  - first:
+      213: 7088985047238515111
+    second: flowerdome building 2_504
+  - first:
+      213: -3861333666790331943
+    second: flowerdome building 2_505
+  - first:
+      213: 3959072262141268317
+    second: flowerdome building 2_506
+  - first:
+      213: -1865734699393974294
+    second: flowerdome building 2_507
+  - first:
+      213: 7483404094077527223
+    second: flowerdome building 2_508
+  - first:
+      213: -1957050022162455726
+    second: flowerdome building 2_509
+  - first:
+      213: -344301767140792991
+    second: flowerdome building 2_510
+  - first:
+      213: 6827732234346112724
+    second: flowerdome building 2_511
+  - first:
+      213: -7069059552022543261
+    second: flowerdome building 2_512
+  - first:
+      213: -7822516823178879858
+    second: flowerdome building 2_513
+  - first:
+      213: 6756205700715226906
+    second: flowerdome building 2_514
+  - first:
+      213: -5585419070289328948
+    second: flowerdome building 2_515
+  - first:
+      213: -2464399425969168005
+    second: flowerdome building 2_516
+  - first:
+      213: 3121285287190089108
+    second: flowerdome building 2_517
+  - first:
+      213: -5480433988409932273
+    second: flowerdome building 2_518
+  - first:
+      213: -8272671063250547566
+    second: flowerdome building 2_519
+  - first:
+      213: 1046327422852735731
+    second: flowerdome building 2_520
+  - first:
+      213: -8813871009935257117
+    second: flowerdome building 2_521
+  - first:
+      213: 4600133745731093095
+    second: flowerdome building 2_522
+  - first:
+      213: -8768209942072538082
+    second: flowerdome building 2_523
+  - first:
+      213: -7283491653890916699
+    second: flowerdome building 2_524
+  - first:
+      213: 4684829581737569185
+    second: flowerdome building 2_525
+  - first:
+      213: 7110179374139350760
+    second: flowerdome building 2_526
+  - first:
+      213: 9045924807726337041
+    second: flowerdome building 2_527
+  - first:
+      213: 7975767054911772946
+    second: flowerdome building 2_528
+  - first:
+      213: 2047400322775980578
+    second: flowerdome building 2_529
+  - first:
+      213: 6381906615869894214
+    second: flowerdome building 2_530
+  - first:
+      213: 6925195622922348129
+    second: flowerdome building 2_531
+  - first:
+      213: 7531828043242829976
+    second: flowerdome building 2_532
+  - first:
+      213: -2328905959063813879
+    second: flowerdome building 2_533
+  - first:
+      213: 5149095391559923860
+    second: flowerdome building 2_534
+  - first:
+      213: -1885249812201400827
+    second: flowerdome building 2_535
+  - first:
+      213: -2586802463938552074
+    second: flowerdome building 2_536
+  - first:
+      213: 7955333885398761584
+    second: flowerdome building 2_537
+  - first:
+      213: 8960245011737933060
+    second: flowerdome building 2_538
+  - first:
+      213: -4717534279805632163
+    second: flowerdome building 2_539
+  - first:
+      213: 114546391857323199
+    second: flowerdome building 2_540
+  - first:
+      213: -2152357953986952488
+    second: flowerdome building 2_541
+  - first:
+      213: 8744135592810257867
+    second: flowerdome building 2_542
+  - first:
+      213: 4536334614010855893
+    second: flowerdome building 2_543
+  - first:
+      213: 1744374372114589543
+    second: flowerdome building 2_544
+  - first:
+      213: -5840549778765684618
+    second: flowerdome building 2_545
+  - first:
+      213: 1480141315817759574
+    second: flowerdome building 2_546
+  - first:
+      213: -7490331923720807796
+    second: flowerdome building 2_547
+  - first:
+      213: 4659595987019780852
+    second: flowerdome building 2_548
+  - first:
+      213: 4937377909257153324
+    second: flowerdome building 2_549
+  - first:
+      213: -687514706228325246
+    second: flowerdome building 2_550
+  - first:
+      213: 6297468187741691295
+    second: flowerdome building 2_551
+  - first:
+      213: 3278300538294251519
+    second: flowerdome building 2_552
+  - first:
+      213: 4086805175257239302
+    second: flowerdome building 2_553
+  - first:
+      213: 7800181427163093332
+    second: flowerdome building 2_554
+  - first:
+      213: 2527223809438206497
+    second: flowerdome building 2_555
+  - first:
+      213: 2998444125812043725
+    second: flowerdome building 2_556
+  - first:
+      213: 5562412561626577997
+    second: flowerdome building 2_557
+  - first:
+      213: 6435399520335461798
+    second: flowerdome building 2_558
+  - first:
+      213: 4971347829160494123
+    second: flowerdome building 2_559
+  - first:
+      213: -9125987385520866756
+    second: flowerdome building 2_560
+  - first:
+      213: 5707873716444387277
+    second: flowerdome building 2_561
+  - first:
+      213: 3849634929938313089
+    second: flowerdome building 2_562
+  - first:
+      213: 5378326720413602473
+    second: flowerdome building 2_563
+  - first:
+      213: 5103127278486429105
+    second: flowerdome building 2_564
+  - first:
+      213: 3333514773681972350
+    second: flowerdome building 2_565
+  - first:
+      213: -6547048302026265965
+    second: flowerdome building 2_566
+  - first:
+      213: -3222313666860642476
+    second: flowerdome building 2_567
+  - first:
+      213: -492530537270721386
+    second: flowerdome building 2_568
+  - first:
+      213: 2320854528857170826
+    second: flowerdome building 2_569
+  - first:
+      213: 4600622940626962742
+    second: flowerdome building 2_570
+  - first:
+      213: -1728859327930158758
+    second: flowerdome building 2_571
+  - first:
+      213: -4966865450108473865
+    second: flowerdome building 2_572
+  - first:
+      213: 7110636819375676758
+    second: flowerdome building 2_573
+  - first:
+      213: -5665663269864279819
+    second: flowerdome building 2_574
+  - first:
+      213: -3062316086639497187
+    second: flowerdome building 2_575
+  - first:
+      213: 7067633916632326217
+    second: flowerdome building 2_576
+  - first:
+      213: -5558474417526824998
+    second: flowerdome building 2_577
+  - first:
+      213: 8922129934910562609
+    second: flowerdome building 2_578
+  - first:
+      213: -1269015516589815591
+    second: flowerdome building 2_579
+  - first:
+      213: 6087393851833688371
+    second: flowerdome building 2_580
+  - first:
+      213: -8899047529145835103
+    second: flowerdome building 2_581
+  - first:
+      213: -4103040206787830843
+    second: flowerdome building 2_582
+  - first:
+      213: 6302475067928817387
+    second: flowerdome building 2_583
+  - first:
+      213: -5301727522861805393
+    second: flowerdome building 2_584
+  - first:
+      213: -8945935214824424229
+    second: flowerdome building 2_585
+  - first:
+      213: 8233526071931283789
+    second: flowerdome building 2_586
+  - first:
+      213: 2109696029506777269
+    second: flowerdome building 2_587
+  - first:
+      213: -972626270065977792
+    second: flowerdome building 2_588
+  - first:
+      213: -8512629263381154683
+    second: flowerdome building 2_589
+  - first:
+      213: -8220807062472223790
+    second: flowerdome building 2_590
+  - first:
+      213: 4609067519579846482
+    second: flowerdome building 2_591
+  - first:
+      213: 1036182853210631914
+    second: flowerdome building 2_592
+  - first:
+      213: 8136339839835964187
+    second: flowerdome building 2_593
+  - first:
+      213: -3287799415107641539
+    second: flowerdome building 2_594
+  - first:
+      213: 1906481593740865569
+    second: flowerdome building 2_595
+  - first:
+      213: 5163042124634109918
+    second: flowerdome building 2_596
+  - first:
+      213: -803419631481040743
+    second: flowerdome building 2_597
+  - first:
+      213: 9009522260591468698
+    second: flowerdome building 2_598
+  - first:
+      213: 759413078490803223
+    second: flowerdome building 2_599
+  - first:
+      213: -4582468167026451835
+    second: flowerdome building 2_600
+  - first:
+      213: -5316731936280826708
+    second: flowerdome building 2_601
+  - first:
+      213: -5560223909264590601
+    second: flowerdome building 2_602
+  - first:
+      213: -3140504337406646183
+    second: flowerdome building 2_603
+  - first:
+      213: -1350458849309755111
+    second: flowerdome building 2_604
+  - first:
+      213: 9138681092602781092
+    second: flowerdome building 2_605
+  - first:
+      213: 1842341952684685362
+    second: flowerdome building 2_606
+  - first:
+      213: -4389320883939692061
+    second: flowerdome building 2_607
+  - first:
+      213: -6389254483506522581
+    second: flowerdome building 2_608
+  - first:
+      213: -8668785818785477820
+    second: flowerdome building 2_609
+  - first:
+      213: 2487301087898763320
+    second: flowerdome building 2_610
+  - first:
+      213: -9010383111118602204
+    second: flowerdome building 2_611
+  - first:
+      213: -4583522514558128270
+    second: flowerdome building 2_612
+  - first:
+      213: -5557587153567195661
+    second: flowerdome building 2_613
+  - first:
+      213: 6134760595027411267
+    second: flowerdome building 2_614
+  - first:
+      213: -3552746550346116904
+    second: flowerdome building 2_615
+  - first:
+      213: 3369305526446459181
+    second: flowerdome building 2_616
+  - first:
+      213: -1788240814625192266
+    second: flowerdome building 2_617
+  - first:
+      213: 3133101844455513967
+    second: flowerdome building 2_618
+  - first:
+      213: 7082512552647966722
+    second: flowerdome building 2_619
+  - first:
+      213: -557728603587745206
+    second: flowerdome building 2_620
+  - first:
+      213: -5783501549288111356
+    second: flowerdome building 2_621
+  - first:
+      213: -2209966795594030601
+    second: flowerdome building 2_622
+  - first:
+      213: -5802557339277702197
+    second: flowerdome building 2_623
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flowerdome building 2_0
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aec4377beb576d0800000000000000
+      internalID: -2993276682195113348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d08b26dcaa40a0800000000000000
+      internalID: -6896509843511651741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0c8858e19e6b40800000000000000
+      internalID: 5435442227386781413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203924d86b8fc5330800000000000000
+      internalID: 3701106456729391874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cace51ae067bc0800000000000000
+      internalID: -3785822350515452717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc99805ea4b84700800000000000000
+      internalID: 524868017357167809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542d1736477e26c0800000000000000
+      internalID: -4166261461815057317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ef4cd048395ad0800000000000000
+      internalID: -2713075449288726475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efabe3492e380ac60800000000000000
+      internalID: 7827401161542908670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660bf184a23145200800000000000000
+      internalID: 167780158439141478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5797be6e88914950800000000000000
+      internalID: 6431589480372082525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c139c1d58d1b3c0800000000000000
+      internalID: -4345454271012856719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8fdcd8b5cd8340800000000000000
+      internalID: 4867764170027667079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a6ee94e2c85770800000000000000
+      internalID: 8599837775638210124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_14
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0d80c069f792c0800000000000000
+      internalID: -4424793914925576642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee02872f2b51b2d0800000000000000
+      internalID: -3264727996782473495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77089f6085a9d5b20800000000000000
+      internalID: 3124823419329806455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e6b03fcee709750800000000000000
+      internalID: 6309682634101059222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbb07ba98096eab0800000000000000
+      internalID: -4979133417050293254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc36633cdfb5fa0800000000000000
+      internalID: -5810771879318532990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659da291ec52edd70800000000000000
+      internalID: 9069728266686486870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68efced690e99e0800000000000000
+      internalID: -1612841248819870015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d139c7dc42cc3da0800000000000000
+      internalID: -5963678171251789351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a309f12382350d0800000000000000
+      internalID: -3435357895010534864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73544c700c3f1bf10800000000000000
+      internalID: 2283874492143125815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_25
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda88aa31e96e3b60800000000000000
+      internalID: 7727730426687032027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f2ae084295d8560800000000000000
+      internalID: 7317602982863449916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b0b3ff3ff10a50800000000000000
+      internalID: 6485745588526691600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4844bd4831812bf0800000000000000
+      internalID: -350857217136375733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89daee53eb99e20800000000000000
+      internalID: 3357924136028313846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc28e62d78e63e10800000000000000
+      internalID: 2177183094101519605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a79eb49371b190800000000000000
+      internalID: -7948444784642250778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a65ab026274c470800000000000000
+      internalID: 8413975769262680646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c647436ef72cec40800000000000000
+      internalID: 5542849214927029956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4193562fb12ffd40800000000000000
+      internalID: 5620247964847149391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7520aea6e787370800000000000000
+      internalID: 8320539309224646638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f72a4fdb3621d90800000000000000
+      internalID: -7128525592669814975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f498e91ddb8184d0800000000000000
+      internalID: -3134070083934448400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9798a2ff3642620800000000000000
+      internalID: 2748431620184308210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddbfce524afc510800000000000000
+      internalID: 1571655277772267002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_40
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3733ee241b5537900800000000000000
+      internalID: 680982188483556211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33ef337f15602d20800000000000000
+      internalID: 3251710116713456447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f4ed8176ed2310800000000000000
+      internalID: 1382014036058895005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4dfd495aa8bbc20800000000000000
+      internalID: 3223322402085655727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8303fc9e4db4cf0800000000000000
+      internalID: -266885652229900058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc878d99c7f4fb0800000000000000
+      internalID: -4661370089101538059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c038beb17655a0b0800000000000000
+      internalID: -5718069105345941308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907a28c5206b657b0800000000000000
+      internalID: -5235797395513366775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_48
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74580d0b490b69170800000000000000
+      internalID: 8184923525460559175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff15f4c5254b590800000000000000
+      internalID: -7659406509829128279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8cc9f665196d80800000000000000
+      internalID: -8257044909785314081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ea048ec4b1fb8a0800000000000000
+      internalID: -6287276537657905648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_52
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85145e872bc8260800000000000000
+      internalID: 7101246944768514259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4ee0bae9631ece0800000000000000
+      internalID: -1377759955896048427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32492b437ea00f3d0800000000000000
+      internalID: -3175025749158357981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1111612eb1e694b70800000000000000
+      internalID: 8883752806001283345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65308d5f517f38120800000000000000
+      internalID: 2415045498891666262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5321c4e3ba525250800000000000000
+      internalID: 5931903387883873116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fabd0b44afefb660800000000000000
+      internalID: 7403899801333250808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7cd564ae66d230800000000000000
+      internalID: 3663236999275118116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_60
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5d366510080a70800000000000000
+      internalID: 8793278364350504887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23bb6daf7b2ac7d0800000000000000
+      internalID: -2897455582889135316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c9be17fd0e8590800000000000000
+      internalID: -7670177760341802234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b967bdbd418530800000000000000
+      internalID: 3855448233227170995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ef00bce6f80a90800000000000000
+      internalID: -7347351295628416798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb35fb175182e0a0800000000000000
+      internalID: -6853773471773279267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_66
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a096fddc522eb490800000000000000
+      internalID: -7728702128264933215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_67
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f7b4c15faf4790800000000000000
+      internalID: -7543618085094688664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_68
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294545e0ac43c6450800000000000000
+      internalID: 6083295239099143314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589599066915eddc0800000000000000
+      internalID: -3612360144796952187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba23f3009d6bf0ae0800000000000000
+      internalID: -1580843901055454549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29df1911cc832e0800000000000000
+      internalID: -2145740846606216491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300ebfe25b65a540800000000000000
+      internalID: 5018535363727982645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad3758f344ceba40800000000000000
+      internalID: 5385958000590011816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44713f40cc6b240800000000000000
+      internalID: 4807253973894907047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541b64404b65c710800000000000000
+      internalID: 1712893157054288980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c039afff38f22bc0800000000000000
+      internalID: -3809209381046112059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca90fe07b794b500800000000000000
+      internalID: 411120278483016398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_78
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1aa9a25ed13910800000000000000
+      internalID: 1815476571422202447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6507ef07d07569a0800000000000000
+      internalID: -6240457639664876178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_80
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80919a75a9fad20d0800000000000000
+      internalID: -3445905062438037240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_81
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fb70b8a194140e0800000000000000
+      internalID: -2287466757376983259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_82
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c237c5aa7bfa9d30800000000000000
+      internalID: 4439136886912922307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_83
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b6b3e5fff713b0800000000000000
+      internalID: -5541679384903632765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_84
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d9d105760c8380800000000000000
+      internalID: -8967785658389506877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ac90ac296b6900800000000000000
+      internalID: 678751809243488365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c9b928b05f0a60800000000000000
+      internalID: 7642415844575267307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e05d0b23275259b0800000000000000
+      internalID: -5092912420044844831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f76b6f707b5eb0800000000000000
+      internalID: -4730063291057442030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2ba5613ada4b630800000000000000
+      internalID: 3941966489822343912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac50b84649150a0800000000000000
+      internalID: -6894566394977465842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_91
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a77e1537ba7d49b0800000000000000
+      internalID: -5094280676197369945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_92
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d39de02f1d47230800000000000000
+      internalID: 3635761636756241722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4209b45a936c63d80800000000000000
+      internalID: -8271205714730708956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_94
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d34258c9118d40800000000000000
+      internalID: 5584773361080455443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_95
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f96f5f2df5c970800000000000000
+      internalID: 8774697828907348239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_96
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5601d837059f25830800000000000000
+      internalID: 4058580338145562725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_97
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24529f5fcba9aab0800000000000000
+      internalID: -4996273404440849361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_98
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f22529abea518f0800000000000000
+      internalID: -570357661450490094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb42d859084e51b0800000000000000
+      internalID: -5666012076203422782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_100
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daf0c08a8192ca40800000000000000
+      internalID: 5387028128340179668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_101
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363fb63e4c88f42c0800000000000000
+      internalID: -4445183927980919965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decf136d5e1be2240800000000000000
+      internalID: 4768944656131161325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56dffc3a9fb12e20800000000000000
+      internalID: 3324148669145405021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7401f35c46ac7a3f0800000000000000
+      internalID: -889519867227598777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_105
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a547ab3d734b50800000000000000
+      internalID: 6576237576053957120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3dad16fb72a8d30800000000000000
+      internalID: 4434400486033642467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25d024260d1bbb0800000000000000
+      internalID: -4921923797305699620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef0e334fe8f65260800000000000000
+      internalID: 7086124770223067118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_109
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f64389a7fd0ec250800000000000000
+      internalID: 5966721913664521976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53390104e1343b0800000000000000
+      internalID: -5529542656976013834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_111
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ca43b4ed804560800000000000000
+      internalID: 7295987409740286341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b522c3bc50a739d0800000000000000
+      internalID: -2794588723746822729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_113
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188172aaceaedd50800000000000000
+      internalID: 6764035875689039893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_114
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd59c9e6a632a950800000000000000
+      internalID: 6458784906117471692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_115
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940c75040a2663860800000000000000
+      internalID: 7509297869100662857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_116
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271b0114ab0f6200800000000000000
+      internalID: 175371709779220264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_117
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40210cbc491a76df0800000000000000
+      internalID: -187003199066992124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_118
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dccaf31ff923110800000000000000
+      internalID: 1239228705984531730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872864486e76b5880800000000000000
+      internalID: -8621182821911330184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595154f6089871290800000000000000
+      internalID: -7919710234992110187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d62bf876a63400800000000000000
+      internalID: 303613063433998816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9021e64b569af0800000000000000
+      internalID: -390023957738120543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_123
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f084da0f43c673a0800000000000000
+      internalID: -6667927454023909130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c392c4d1f71067f80800000000000000
+      internalID: -8109292433569994436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3de91b7ab194ab0800000000000000
+      internalID: -5023453502301613106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_126
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73dfb31c94f9df50800000000000000
+      internalID: 6906820454732780415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_127
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869db61de5884d380800000000000000
+      internalID: -8947376618856523416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_128
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443febe97c9330f50800000000000000
+      internalID: 6846379388057875268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_129
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882bde7e4631eace0800000000000000
+      internalID: -1392153910702132600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_130
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820751ed0a1e4f740800000000000000
+      internalID: 5185017152047247400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_131
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f455447fc397c760800000000000000
+      internalID: 7478108225490212083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4439958c309779f70800000000000000
+      internalID: 9193950221453333316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_133
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c55a1615357130800000000000000
+      internalID: 3563813049180997487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_134
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b0157e13fbfd10800000000000000
+      internalID: 2160587758392882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_135
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a7a4a6154c911d0800000000000000
+      internalID: -3379454191410185666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_136
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6588874994b7890800000000000000
+      internalID: -7459287455782906131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_137
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1d5240356f5470800000000000000
+      internalID: 8385532289133386930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d521ed2509e58f0800000000000000
+      internalID: -549843418905158273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d918722581d0100800000000000000
+      internalID: 75743509864357234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593d9b3c8f319340800000000000000
+      internalID: 4868742543692347730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_141
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202db56aecd0e0f0800000000000000
+      internalID: -1089628210536308699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ae1d42d7d12950800000000000000
+      internalID: 6422651841843995890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9513de4bf68cd0800000000000000
+      internalID: -2556079422518747901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567c495871219b80800000000000000
+      internalID: -8389887830036548004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_145
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f80b3ed04a390f0800000000000000
+      internalID: -1111364303468851390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae774e1bf43e6190800000000000000
+      internalID: -7967372437622391136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_147
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746ab36c4d7b0100800000000000000
+      internalID: 75291585825891449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_148
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c626ebc64f1ec80800000000000000
+      internalID: -8295080290751976318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_149
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a8f86d899d9810800000000000000
+      internalID: 1773742660884407959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_150
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109fbc2e84a50880800000000000000
+      internalID: -8645322979124735977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_151
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e83cc64063bf440800000000000000
+      internalID: 4970626006365998736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_152
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d474cd5ddcf880800000000000000
+      internalID: -8575736195622579539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_153
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67992f2d1bce6a0800000000000000
+      internalID: -6418559849338407174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1a87d82e7f1e60800000000000000
+      internalID: 7935199782330047219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_155
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb779d97b598fa440800000000000000
+      internalID: 4949325541482788795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194089420a8d1680800000000000000
+      internalID: -8782711955874887402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cca501929e0e770800000000000000
+      internalID: 8638160447873928229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595fbb8117f7cabf0800000000000000
+      internalID: -311734150472403563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ae32b22f5c8350800000000000000
+      internalID: 6020291404511486642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_160
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26490c5afe43f080800000000000000
+      internalID: -9154886780321184214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_161
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9e3cc78eaecc30800000000000000
+      internalID: 4381631385748545046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_162
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3acff244c92e9a00800000000000000
+      internalID: 765094909613951548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_163
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5654712df35775c0800000000000000
+      internalID: -4217810179356076449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_164
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d3b741fd51dda0800000000000000
+      internalID: -5921848744144021142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_165
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d7cd247677cdf0800000000000000
+      internalID: -160029020392008778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_166
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9925f62dbe26b00800000000000000
+      internalID: 820477371178195367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_167
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0de7b6a56f26420800000000000000
+      internalID: 2621928801294012597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_168
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea62a4682b1a5eb0800000000000000
+      internalID: -4730438598298277145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_169
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb078b57c868b70800000000000000
+      internalID: 8900956150777823126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_170
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90763fab77470e170800000000000000
+      internalID: 8205686578655487753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_171
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcffb5bf1946bd90800000000000000
+      internalID: -7082392963451454282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_172
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584888ce0616e1a30800000000000000
+      internalID: 4187891772414264453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowerdome building 2_173
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6fcedd014b7da0800000000000000
+      internalID: -5946087355184092470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
