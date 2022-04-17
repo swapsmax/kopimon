@@ -1,2 +1,0 @@
-C:\Users\mrkia\GatherClass\obj\Debug\PhotonUnityNetworking.csproj.AssemblyReference.cache
-C:\Users\mrkia\GatherClass\obj\Debug\PhotonUnityNetworking.csproj.CoreCompileInputs.cache

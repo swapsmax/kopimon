@@ -1,2 +1,0 @@
-C:\Users\mrkia\GatherClass\obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
-C:\Users\mrkia\GatherClass\obj\Debug\PunDemos.DemoHubEditor.csproj.CoreCompileInputs.cache
