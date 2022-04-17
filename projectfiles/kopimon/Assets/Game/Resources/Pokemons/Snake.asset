@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba6a03cfadf064e1ebe32e634ca937fb, type: 3}
+  m_Name: Snake
+  m_EditorClassIdentifier: 
+  name: Snake
+  description: 
+  frontSprite: {fileID: 21300000, guid: 5e9ae28c7b62c34448fc3e8fa2bb3e6b, type: 3}
+  backSprite: {fileID: 21300000, guid: 5e9ae28c7b62c34448fc3e8fa2bb3e6b, type: 3}
+  type1: 5
+  type2: 8
+  maxHp: 45
+  attack: 49
+  defense: 49
+  spAttack: 65
+  spDefense: 65
+  speed: 45
+  expYield: 400
+  growthRate: 1
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f06d0f9e0cfc5473db26b8570daf487e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 24ad4b71925514cff8c0e6ba9965aee6, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: bf8d977bf17c64af9a894a01e81401ed, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 7760779d9bd11b94095a06e9b8404ae2, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 7760779d9bd11b94095a06e9b8404ae2, type: 2}
+    level: 10
+  learnableByItems:
+  - {fileID: 11400000, guid: f06d0f9e0cfc5473db26b8570daf487e, type: 2}
+  - {fileID: 11400000, guid: c9102425b28ca4bd093ead6a95755c8f, type: 2}
+  - {fileID: 11400000, guid: 8be87c9c2120e489a9be56bf21911dfa, type: 2}
+  - {fileID: 11400000, guid: 9c5969ef67c8d824e914d326416219a2, type: 2}

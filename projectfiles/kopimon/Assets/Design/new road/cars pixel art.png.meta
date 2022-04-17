@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 77292eec86430af4fb2fd8b6a5b8c149
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7324818647005236038
+    second: cars pixel art_0
+  - first:
+      213: 7488286461221855975
+    second: cars pixel art_1
+  - first:
+      213: 5573100054292255780
+    second: cars pixel art_2
+  - first:
+      213: -748621024657036126
+    second: cars pixel art_3
+  - first:
+      213: -7559251209677157675
+    second: cars pixel art_4
+  - first:
+      213: 6045897393617260226
+    second: cars pixel art_5
+  - first:
+      213: -3076212409667296057
+    second: cars pixel art_6
+  - first:
+      213: -4726457229023832848
+    second: cars pixel art_7
+  - first:
+      213: -5024061445946335052
+    second: cars pixel art_8
+  - first:
+      213: 249675814907924420
+    second: cars pixel art_9
+  - first:
+      213: 6097980326599406645
+    second: cars pixel art_10
+  - first:
+      213: 5956130946597387711
+    second: cars pixel art_11
+  - first:
+      213: 5162912476899147318
+    second: cars pixel art_12
+  - first:
+      213: 1784927244079243650
+    second: cars pixel art_13
+  - first:
+      213: -8736407119734144349
+    second: cars pixel art_14
+  - first:
+      213: -5857676289471704493
+    second: cars pixel art_15
+  - first:
+      213: 8146771804949053014
+    second: cars pixel art_16
+  - first:
+      213: 3408825868800469608
+    second: cars pixel art_17
+  - first:
+      213: -1920859425445858079
+    second: cars pixel art_18
+  - first:
+      213: -3107419540111813785
+    second: cars pixel art_19
+  - first:
+      213: -919298535356172553
+    second: cars pixel art_20
+  - first:
+      213: 2895288838757870926
+    second: cars pixel art_21
+  - first:
+      213: 7181857959330335223
+    second: cars pixel art_22
+  - first:
+      213: 2608854813701879887
+    second: cars pixel art_23
+  - first:
+      213: -3481903845273809847
+    second: cars pixel art_24
+  - first:
+      213: 9122444873102774593
+    second: cars pixel art_25
+  - first:
+      213: 3084563442338991190
+    second: cars pixel art_26
+  - first:
+      213: -1155890423228388776
+    second: cars pixel art_27
+  - first:
+      213: -5031044239177987760
+    second: cars pixel art_28
+  - first:
+      213: 1061129527083842698
+    second: cars pixel art_29
+  - first:
+      213: -3934084046386501377
+    second: cars pixel art_30
+  - first:
+      213: 3286080994441384208
+    second: cars pixel art_31
+  - first:
+      213: 1740182154128433966
+    second: cars pixel art_32
+  - first:
+      213: -822934013185162268
+    second: cars pixel art_33
+  - first:
+      213: 8494281675432133669
+    second: cars pixel art_34
+  - first:
+      213: 6876738215922819931
+    second: cars pixel art_35
+  - first:
+      213: 3740093506681395216
+    second: cars pixel art_36
+  - first:
+      213: 753146796663096946
+    second: cars pixel art_37
+  - first:
+      213: -5168746089892545763
+    second: cars pixel art_38
+  - first:
+      213: -7455273425971981394
+    second: cars pixel art_39
+  - first:
+      213: 6496215547241375471
+    second: cars pixel art_40
+  - first:
+      213: -2950213499638173804
+    second: cars pixel art_41
+  - first:
+      213: 3111909769644532851
+    second: cars pixel art_42
+  - first:
+      213: 5920077230915553295
+    second: cars pixel art_43
+  - first:
+      213: 4848188147701559319
+    second: cars pixel art_44
+  - first:
+      213: 4705819521533261128
+    second: cars pixel art_45
+  - first:
+      213: -49246501801650453
+    second: cars pixel art_46
+  - first:
+      213: -6314550750332181843
+    second: cars pixel art_47
+  - first:
+      213: 5608351459496833466
+    second: cars pixel art_48
+  - first:
+      213: -6220972115962520844
+    second: cars pixel art_49
+  - first:
+      213: 9032865126647212470
+    second: cars pixel art_50
+  - first:
+      213: -8238511056135753512
+    second: cars pixel art_51
+  - first:
+      213: -3185355685897060091
+    second: cars pixel art_52
+  - first:
+      213: -395854821826536485
+    second: cars pixel art_53
+  - first:
+      213: -1463652294088936290
+    second: cars pixel art_54
+  - first:
+      213: 5269950625385371042
+    second: cars pixel art_55
+  - first:
+      213: -6830231010797146980
+    second: cars pixel art_56
+  - first:
+      213: -6858962522345392118
+    second: cars pixel art_57
+  - first:
+      213: -2960500123723478530
+    second: cars pixel art_58
+  - first:
+      213: -2528398102631547652
+    second: cars pixel art_59
+  - first:
+      213: -8171085474437201296
+    second: cars pixel art_60
+  - first:
+      213: -1075467797282024760
+    second: cars pixel art_61
+  - first:
+      213: 6353415096540093460
+    second: cars pixel art_62
+  - first:
+      213: -1455765643440003031
+    second: cars pixel art_63
+  - first:
+      213: 5410398218319395256
+    second: cars pixel art_64
+  - first:
+      213: 2019798208271674092
+    second: cars pixel art_65
+  - first:
+      213: -1668285299132693529
+    second: cars pixel art_66
+  - first:
+      213: 6078574578855518409
+    second: cars pixel art_67
+  - first:
+      213: -1972506441117878502
+    second: cars pixel art_68
+  - first:
+      213: -7903874536926523460
+    second: cars pixel art_69
+  - first:
+      213: 7842123348964096632
+    second: cars pixel art_70
+  - first:
+      213: 1582128106291637741
+    second: cars pixel art_71
+  - first:
+      213: 3956318520032602750
+    second: cars pixel art_72
+  - first:
+      213: 1100018573926386937
+    second: cars pixel art_73
+  - first:
+      213: 2492127616181360491
+    second: cars pixel art_74
+  - first:
+      213: -7622955612658093826
+    second: cars pixel art_75
+  - first:
+      213: -5643146147364415529
+    second: cars pixel art_76
+  - first:
+      213: -5862823036383546893
+    second: cars pixel art_77
+  - first:
+      213: -7848809380395216779
+    second: cars pixel art_78
+  - first:
+      213: -6714748030608756551
+    second: cars pixel art_79
+  - first:
+      213: 2808850739011251764
+    second: cars pixel art_80
+  - first:
+      213: -6712811347665994544
+    second: cars pixel art_81
+  - first:
+      213: -5620392135026193567
+    second: cars pixel art_82
+  - first:
+      213: -543982002719000135
+    second: cars pixel art_83
+  - first:
+      213: -5389526290447253612
+    second: cars pixel art_84
+  - first:
+      213: 7167929506830174085
+    second: cars pixel art_85
+  - first:
+      213: 7712967746816683547
+    second: cars pixel art_86
+  - first:
+      213: 4261574177422954366
+    second: cars pixel art_87
+  - first:
+      213: -8803372128052443111
+    second: cars pixel art_88
+  - first:
+      213: 1035200878216495226
+    second: cars pixel art_89
+  - first:
+      213: 6190642952026658707
+    second: cars pixel art_90
+  - first:
+      213: 2797305624238298772
+    second: cars pixel art_91
+  - first:
+      213: 5651111248785379816
+    second: cars pixel art_92
+  - first:
+      213: -3110754913139848848
+    second: cars pixel art_93
+  - first:
+      213: 7639362343810546925
+    second: cars pixel art_94
+  - first:
+      213: -8527985374664590978
+    second: cars pixel art_95
+  - first:
+      213: -7472171707563342059
+    second: cars pixel art_96
+  - first:
+      213: -7082266687385893659
+    second: cars pixel art_97
+  - first:
+      213: -711980663559195464
+    second: cars pixel art_98
+  - first:
+      213: 1095647425253749382
+    second: cars pixel art_99
+  - first:
+      213: -3070718712493183805
+    second: cars pixel art_100
+  - first:
+      213: 4215970980574424375
+    second: cars pixel art_101
+  - first:
+      213: -3962399130754517475
+    second: cars pixel art_102
+  - first:
+      213: 9096908509479928516
+    second: cars pixel art_103
+  - first:
+      213: 556440062532317232
+    second: cars pixel art_104
+  - first:
+      213: -7818967462886639665
+    second: cars pixel art_105
+  - first:
+      213: 5353025272380723916
+    second: cars pixel art_106
+  - first:
+      213: -3009076828568540069
+    second: cars pixel art_107
+  - first:
+      213: -8614940174743658915
+    second: cars pixel art_108
+  - first:
+      213: -1717587688303142553
+    second: cars pixel art_109
+  - first:
+      213: 8964105375947119689
+    second: cars pixel art_110
+  - first:
+      213: -1385966690934186043
+    second: cars pixel art_111
+  - first:
+      213: -6129081593369570214
+    second: cars pixel art_112
+  - first:
+      213: -5491186870502785995
+    second: cars pixel art_113
+  - first:
+      213: -4637491804824719379
+    second: cars pixel art_114
+  - first:
+      213: 7224379350354841720
+    second: cars pixel art_115
+  - first:
+      213: 6324894439030822190
+    second: cars pixel art_116
+  - first:
+      213: -7685813815813929068
+    second: cars pixel art_117
+  - first:
+      213: 9081021350170722261
+    second: cars pixel art_118
+  - first:
+      213: -19892704039513406
+    second: cars pixel art_119
+  - first:
+      213: 3371358483962590477
+    second: cars pixel art_120
+  - first:
+      213: 609815149774019423
+    second: cars pixel art_121
+  - first:
+      213: 3617218085498796300
+    second: cars pixel art_122
+  - first:
+      213: -6536364813859947584
+    second: cars pixel art_123
+  - first:
+      213: -230509689784370683
+    second: cars pixel art_124
+  - first:
+      213: 5227378122243336596
+    second: cars pixel art_125
+  - first:
+      213: -7653111399293243448
+    second: cars pixel art_126
+  - first:
+      213: -5015727845693539665
+    second: cars pixel art_127
+  - first:
+      213: 4839671484416647621
+    second: cars pixel art_128
+  - first:
+      213: 6983596288298130095
+    second: cars pixel art_129
+  - first:
+      213: 1119627535156652775
+    second: cars pixel art_130
+  - first:
+      213: -5308182156158451879
+    second: cars pixel art_131
+  - first:
+      213: -7310045220951767117
+    second: cars pixel art_132
+  - first:
+      213: -9125430877536656577
+    second: cars pixel art_133
+  - first:
+      213: -1639826681271724591
+    second: cars pixel art_134
+  - first:
+      213: 5103366158910421887
+    second: cars pixel art_135
+  - first:
+      213: 6897257619448022587
+    second: cars pixel art_136
+  - first:
+      213: -5272322036620376254
+    second: cars pixel art_137
+  - first:
+      213: -3930448518550090867
+    second: cars pixel art_138
+  - first:
+      213: 3013649916259596969
+    second: cars pixel art_139
+  - first:
+      213: -4224717164826974323
+    second: cars pixel art_140
+  - first:
+      213: -5777973640830337513
+    second: cars pixel art_141
+  - first:
+      213: -647087079786954976
+    second: cars pixel art_142
+  - first:
+      213: 67482994024081078
+    second: cars pixel art_143
+  - first:
+      213: -234890342640112512
+    second: cars pixel art_144
+  - first:
+      213: -1037000592974290771
+    second: cars pixel art_145
+  - first:
+      213: -7067348672734993202
+    second: cars pixel art_146
+  - first:
+      213: 8201043245270217128
+    second: cars pixel art_147
+  - first:
+      213: -7294506129279014961
+    second: cars pixel art_148
+  - first:
+      213: -7047224976407972604
+    second: cars pixel art_149
+  - first:
+      213: 2527721879894718260
+    second: cars pixel art_150
+  - first:
+      213: -5059223784695114917
+    second: cars pixel art_151
+  - first:
+      213: 3185575635696175029
+    second: cars pixel art_152
+  - first:
+      213: -8052625953393091096
+    second: cars pixel art_153
+  - first:
+      213: -5246239971026155130
+    second: cars pixel art_154
+  - first:
+      213: 4049208651101047887
+    second: cars pixel art_155
+  - first:
+      213: -5513645605742464844
+    second: cars pixel art_156
+  - first:
+      213: 939501604481056476
+    second: cars pixel art_157
+  - first:
+      213: 2632179453037340776
+    second: cars pixel art_158
+  - first:
+      213: 4584904388414128417
+    second: cars pixel art_159
+  - first:
+      213: -5366214910775890595
+    second: cars pixel art_160
+  - first:
+      213: 7489488181956468256
+    second: cars pixel art_161
+  - first:
+      213: 5817313269070416050
+    second: cars pixel art_162
+  - first:
+      213: 6864699196459733772
+    second: cars pixel art_163
+  - first:
+      213: -2200172120126245929
+    second: cars pixel art_164
+  - first:
+      213: -2274652312654534544
+    second: cars pixel art_165
+  - first:
+      213: -1946730380914346950
+    second: cars pixel art_166
+  - first:
+      213: -5829984033751851102
+    second: cars pixel art_167
+  - first:
+      213: 7791823996423200995
+    second: cars pixel art_168
+  - first:
+      213: 1130690597584392443
+    second: cars pixel art_169
+  - first:
+      213: 2487435958945774977
+    second: cars pixel art_170
+  - first:
+      213: -5333547567483444854
+    second: cars pixel art_171
+  - first:
+      213: 2959867554537999960
+    second: cars pixel art_172
+  - first:
+      213: -6899388917731674669
+    second: cars pixel art_173
+  - first:
+      213: -386282723590710744
+    second: cars pixel art_174
+  - first:
+      213: 353197486218404215
+    second: cars pixel art_175
+  - first:
+      213: 4949457029321748746
+    second: cars pixel art_176
+  - first:
+      213: -1436329200714006591
+    second: cars pixel art_177
+  - first:
+      213: 3341588366586462043
+    second: cars pixel art_178
+  - first:
+      213: -1881700365693096642
+    second: cars pixel art_179
+  - first:
+      213: -5551681655232146086
+    second: cars pixel art_180
+  - first:
+      213: 3100210601303438583
+    second: cars pixel art_181
+  - first:
+      213: 5466955484819033988
+    second: cars pixel art_182
+  - first:
+      213: -2093184561554051449
+    second: cars pixel art_183
+  - first:
+      213: 4482544367844046723
+    second: cars pixel art_184
+  - first:
+      213: -1077958560290451906
+    second: cars pixel art_185
+  - first:
+      213: 760815671822984108
+    second: cars pixel art_186
+  - first:
+      213: 7953261417655945007
+    second: cars pixel art_187
+  - first:
+      213: 2570978280823564095
+    second: cars pixel art_188
+  - first:
+      213: 3476869467862423852
+    second: cars pixel art_189
+  - first:
+      213: -1486675661597441178
+    second: cars pixel art_190
+  - first:
+      213: -4789922415819703457
+    second: cars pixel art_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cars pixel art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab47815cf34095a90800000000000000
+      internalID: -7324818647005236038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cars pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ee71acdcbbe760800000000000000
+      internalID: 7488286461221855975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
