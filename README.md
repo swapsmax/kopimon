@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/swapsmax/kopimon">
-    <img src="images/kopimon_readme.png" alt="Logo">
+    <img src="images/game_name.png" alt="Logo">
   </a>
 
   <h3 align="center"></h3>
